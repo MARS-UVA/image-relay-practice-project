@@ -1,0 +1,33 @@
+[7.505s] Invoking command in '/mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/package_name': PYTHONPATH=/mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/build/package_name/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/install/package_name/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/package_name build --build-base /mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/build/package_name/build install --record /mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/build/package_name/install.log --single-version-externally-managed install_data
+[9.956s] running egg_info
+[9.969s] creating ../build/package_name/package_name.egg-info
+[10.029s] writing ../build/package_name/package_name.egg-info/PKG-INFO
+[10.064s] writing dependency_links to ../build/package_name/package_name.egg-info/dependency_links.txt
+[10.097s] writing requirements to ../build/package_name/package_name.egg-info/requires.txt
+[10.111s] writing top-level names to ../build/package_name/package_name.egg-info/top_level.txt
+[10.134s] writing manifest file '../build/package_name/package_name.egg-info/SOURCES.txt'
+[10.365s] reading manifest file '../build/package_name/package_name.egg-info/SOURCES.txt'
+[10.484s] adding license file 'LICENSE'
+[10.577s] writing manifest file '../build/package_name/package_name.egg-info/SOURCES.txt'
+[10.589s] running build
+[10.593s] running build_py
+[10.610s] creating /mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/build/package_name/build
+[10.620s] creating /mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/build/package_name/build/lib
+[10.627s] creating /mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/build/package_name/build/lib/package_name
+[10.664s] copying package_name/__init__.py -> /mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/build/package_name/build/lib/package_name
+[10.721s] running install
+[10.750s] running install_lib
+[10.901s] creating /mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/install/package_name/lib/python3.12/site-packages/package_name
+[10.974s] copying /mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/build/package_name/build/lib/package_name/__init__.py -> /mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/install/package_name/lib/python3.12/site-packages/package_name
+[11.095s] byte-compiling /mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/install/package_name/lib/python3.12/site-packages/package_name/__init__.py to __init__.cpython-312.pyc
+[11.227s] running install_data
+[11.251s] creating /mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/install/package_name/share/ament_index
+[11.256s] creating /mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/install/package_name/share/ament_index/resource_index
+[11.265s] creating /mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/install/package_name/share/ament_index/resource_index/packages
+[11.303s] copying resource/package_name -> /mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/install/package_name/share/ament_index/resource_index/packages
+[11.390s] copying package.xml -> /mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/install/package_name/share/package_name
+[11.431s] running install_egg_info
+[11.537s] Copying ../build/package_name/package_name.egg-info to /mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/install/package_name/lib/python3.12/site-packages/package_name-0.0.0-py3.12.egg-info
+[12.310s] running install_scripts
+[13.090s] writing list of installed files to '/mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/build/package_name/install.log'
+[14.216s] Invoked command in '/mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/package_name' returned '0': PYTHONPATH=/mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/build/package_name/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/install/package_name/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/package_name build --build-base /mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/build/package_name/build install --record /mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/build/package_name/install.log --single-version-externally-managed install_data

@@ -1,0 +1,429 @@
+[0.000000] (-) TimerEvent: {}
+[0.001654] (example_package) JobQueued: {'identifier': 'example_package', 'dependencies': OrderedDict()}
+[0.002763] (my_package) JobQueued: {'identifier': 'my_package', 'dependencies': OrderedDict()}
+[0.003839] (package_name) JobQueued: {'identifier': 'package_name', 'dependencies': OrderedDict()}
+[0.004978] (example_package) JobStarted: {'identifier': 'example_package'}
+[0.096912] (-) TimerEvent: {}
+[0.206379] (-) TimerEvent: {}
+[0.316279] (-) TimerEvent: {}
+[0.426063] (-) TimerEvent: {}
+[0.536056] (-) TimerEvent: {}
+[0.644031] (-) TimerEvent: {}
+[0.675905] (my_package) JobStarted: {'identifier': 'my_package'}
+[0.748317] (-) TimerEvent: {}
+[0.858241] (-) TimerEvent: {}
+[0.967715] (-) TimerEvent: {}
+[1.086141] (-) TimerEvent: {}
+[1.195585] (-) TimerEvent: {}
+[1.286851] (package_name) JobStarted: {'identifier': 'package_name'}
+[1.296553] (-) TimerEvent: {}
+[1.406556] (-) TimerEvent: {}
+[1.516067] (-) TimerEvent: {}
+[1.626105] (-) TimerEvent: {}
+[1.735837] (-) TimerEvent: {}
+[1.844698] (-) TimerEvent: {}
+[1.954744] (-) TimerEvent: {}
+[2.064433] (-) TimerEvent: {}
+[2.174159] (-) TimerEvent: {}
+[2.283421] (-) TimerEvent: {}
+[2.393145] (-) TimerEvent: {}
+[2.503080] (-) TimerEvent: {}
+[2.612773] (-) TimerEvent: {}
+[2.714764] (-) TimerEvent: {}
+[2.824523] (-) TimerEvent: {}
+[2.931157] (-) TimerEvent: {}
+[3.041076] (-) TimerEvent: {}
+[3.150947] (-) TimerEvent: {}
+[3.260954] (-) TimerEvent: {}
+[3.370543] (-) TimerEvent: {}
+[3.480610] (-) TimerEvent: {}
+[3.590201] (-) TimerEvent: {}
+[3.700031] (-) TimerEvent: {}
+[3.809682] (-) TimerEvent: {}
+[3.919574] (-) TimerEvent: {}
+[4.029221] (-) TimerEvent: {}
+[4.139603] (-) TimerEvent: {}
+[4.249584] (-) TimerEvent: {}
+[4.351629] (-) TimerEvent: {}
+[4.452822] (-) TimerEvent: {}
+[4.553903] (-) TimerEvent: {}
+[4.655407] (-) TimerEvent: {}
+[4.756934] (-) TimerEvent: {}
+[4.858591] (-) TimerEvent: {}
+[4.960168] (-) TimerEvent: {}
+[5.061640] (-) TimerEvent: {}
+[5.163108] (-) TimerEvent: {}
+[5.264611] (-) TimerEvent: {}
+[5.365953] (-) TimerEvent: {}
+[5.467252] (-) TimerEvent: {}
+[5.568731] (-) TimerEvent: {}
+[5.670902] (-) TimerEvent: {}
+[5.772587] (-) TimerEvent: {}
+[5.874285] (-) TimerEvent: {}
+[5.975782] (-) TimerEvent: {}
+[6.077271] (-) TimerEvent: {}
+[6.178773] (-) TimerEvent: {}
+[6.280610] (-) TimerEvent: {}
+[6.382155] (-) TimerEvent: {}
+[6.483935] (-) TimerEvent: {}
+[6.585577] (-) TimerEvent: {}
+[6.686915] (-) TimerEvent: {}
+[6.788215] (-) TimerEvent: {}
+[6.889764] (-) TimerEvent: {}
+[6.991442] (-) TimerEvent: {}
+[7.095488] (-) TimerEvent: {}
+[7.205970] (-) TimerEvent: {}
+[7.315932] (-) TimerEvent: {}
+[7.423972] (-) TimerEvent: {}
+[7.533810] (-) TimerEvent: {}
+[7.643672] (-) TimerEvent: {}
+[7.753681] (-) TimerEvent: {}
+[7.863764] (-) TimerEvent: {}
+[7.973542] (-) TimerEvent: {}
+[8.083518] (-) TimerEvent: {}
+[8.193389] (-) TimerEvent: {}
+[8.303514] (-) TimerEvent: {}
+[8.413531] (-) TimerEvent: {}
+[8.523501] (-) TimerEvent: {}
+[8.631874] (-) TimerEvent: {}
+[8.739845] (-) TimerEvent: {}
+[8.849605] (-) TimerEvent: {}
+[8.959506] (-) TimerEvent: {}
+[9.069595] (-) TimerEvent: {}
+[9.179617] (-) TimerEvent: {}
+[9.289248] (-) TimerEvent: {}
+[9.399031] (-) TimerEvent: {}
+[9.508889] (-) TimerEvent: {}
+[9.617137] (-) TimerEvent: {}
+[9.726967] (-) TimerEvent: {}
+[9.833292] (-) TimerEvent: {}
+[9.942907] (-) TimerEvent: {}
+[10.052941] (-) TimerEvent: {}
+[10.162620] (-) TimerEvent: {}
+[10.272651] (-) TimerEvent: {}
+[10.382174] (-) TimerEvent: {}
+[10.491732] (-) TimerEvent: {}
+[10.601333] (-) TimerEvent: {}
+[10.710491] (-) TimerEvent: {}
+[10.820255] (-) TimerEvent: {}
+[10.930103] (-) TimerEvent: {}
+[11.040310] (-) TimerEvent: {}
+[11.150300] (-) TimerEvent: {}
+[11.260566] (-) TimerEvent: {}
+[11.370493] (-) TimerEvent: {}
+[11.480425] (-) TimerEvent: {}
+[11.589151] (-) TimerEvent: {}
+[11.699019] (-) TimerEvent: {}
+[11.808233] (-) TimerEvent: {}
+[11.916484] (-) TimerEvent: {}
+[12.026269] (-) TimerEvent: {}
+[12.135987] (-) TimerEvent: {}
+[12.245791] (-) TimerEvent: {}
+[12.354234] (-) TimerEvent: {}
+[12.464142] (-) TimerEvent: {}
+[12.573809] (-) TimerEvent: {}
+[12.683526] (-) TimerEvent: {}
+[12.793269] (-) TimerEvent: {}
+[12.901718] (-) TimerEvent: {}
+[13.010292] (-) TimerEvent: {}
+[13.120428] (-) TimerEvent: {}
+[13.230821] (-) TimerEvent: {}
+[13.338366] (-) TimerEvent: {}
+[13.439727] (-) TimerEvent: {}
+[13.541109] (-) TimerEvent: {}
+[13.642183] (-) TimerEvent: {}
+[13.743661] (-) TimerEvent: {}
+[13.845087] (-) TimerEvent: {}
+[13.946550] (-) TimerEvent: {}
+[14.049633] (-) TimerEvent: {}
+[14.150913] (-) TimerEvent: {}
+[14.252415] (-) TimerEvent: {}
+[14.353968] (-) TimerEvent: {}
+[14.455566] (-) TimerEvent: {}
+[14.556680] (-) TimerEvent: {}
+[14.658034] (-) TimerEvent: {}
+[14.759404] (-) TimerEvent: {}
+[14.860730] (-) TimerEvent: {}
+[14.961868] (-) TimerEvent: {}
+[15.063122] (-) TimerEvent: {}
+[15.164635] (-) TimerEvent: {}
+[15.266172] (-) TimerEvent: {}
+[15.367363] (-) TimerEvent: {}
+[15.468982] (-) TimerEvent: {}
+[15.577910] (-) TimerEvent: {}
+[15.687941] (-) TimerEvent: {}
+[15.797599] (-) TimerEvent: {}
+[15.907226] (-) TimerEvent: {}
+[16.016752] (-) TimerEvent: {}
+[16.126551] (-) TimerEvent: {}
+[16.236668] (-) TimerEvent: {}
+[16.346460] (-) TimerEvent: {}
+[16.456345] (-) TimerEvent: {}
+[16.564400] (-) TimerEvent: {}
+[16.673266] (-) TimerEvent: {}
+[16.783021] (-) TimerEvent: {}
+[16.892983] (-) TimerEvent: {}
+[17.001588] (-) TimerEvent: {}
+[17.111714] (-) TimerEvent: {}
+[17.221372] (-) TimerEvent: {}
+[17.330326] (-) TimerEvent: {}
+[17.440274] (-) TimerEvent: {}
+[17.550368] (-) TimerEvent: {}
+[17.660161] (-) TimerEvent: {}
+[17.761635] (-) TimerEvent: {}
+[17.871332] (-) TimerEvent: {}
+[17.981247] (-) TimerEvent: {}
+[18.091322] (-) TimerEvent: {}
+[18.201564] (-) TimerEvent: {}
+[18.311420] (-) TimerEvent: {}
+[18.421458] (-) TimerEvent: {}
+[18.531188] (-) TimerEvent: {}
+[18.636051] (-) TimerEvent: {}
+[18.745622] (-) TimerEvent: {}
+[18.855081] (-) TimerEvent: {}
+[18.965049] (-) TimerEvent: {}
+[19.075015] (-) TimerEvent: {}
+[19.185154] (-) TimerEvent: {}
+[19.294773] (-) TimerEvent: {}
+[19.404779] (-) TimerEvent: {}
+[19.514913] (-) TimerEvent: {}
+[19.625188] (-) TimerEvent: {}
+[19.735045] (-) TimerEvent: {}
+[19.844542] (-) TimerEvent: {}
+[19.954162] (-) TimerEvent: {}
+[20.063604] (-) TimerEvent: {}
+[20.173423] (-) TimerEvent: {}
+[20.283054] (-) TimerEvent: {}
+[20.392855] (-) TimerEvent: {}
+[20.502823] (-) TimerEvent: {}
+[20.612728] (-) TimerEvent: {}
+[20.722602] (-) TimerEvent: {}
+[20.832561] (-) TimerEvent: {}
+[20.942215] (-) TimerEvent: {}
+[21.052042] (-) TimerEvent: {}
+[21.162164] (-) TimerEvent: {}
+[21.272158] (-) TimerEvent: {}
+[21.382073] (-) TimerEvent: {}
+[21.485100] (-) TimerEvent: {}
+[21.586620] (-) TimerEvent: {}
+[21.688898] (-) TimerEvent: {}
+[21.790633] (-) TimerEvent: {}
+[21.891884] (-) TimerEvent: {}
+[21.992720] (-) TimerEvent: {}
+[22.094214] (-) TimerEvent: {}
+[22.195339] (-) TimerEvent: {}
+[22.296496] (-) TimerEvent: {}
+[22.397752] (-) TimerEvent: {}
+[22.498937] (-) TimerEvent: {}
+[22.600639] (-) TimerEvent: {}
+[22.702282] (-) TimerEvent: {}
+[22.804214] (-) TimerEvent: {}
+[22.905859] (-) TimerEvent: {}
+[23.007508] (-) TimerEvent: {}
+[23.108725] (-) TimerEvent: {}
+[23.210306] (-) TimerEvent: {}
+[23.311807] (-) TimerEvent: {}
+[23.413281] (-) TimerEvent: {}
+[23.514379] (-) TimerEvent: {}
+[23.615791] (-) TimerEvent: {}
+[23.717247] (-) TimerEvent: {}
+[23.818526] (-) TimerEvent: {}
+[23.920208] (-) TimerEvent: {}
+[24.029864] (-) TimerEvent: {}
+[24.139695] (-) TimerEvent: {}
+[24.249622] (-) TimerEvent: {}
+[24.359555] (-) TimerEvent: {}
+[24.469371] (-) TimerEvent: {}
+[24.579150] (-) TimerEvent: {}
+[24.688837] (-) TimerEvent: {}
+[24.798604] (-) TimerEvent: {}
+[24.908537] (-) TimerEvent: {}
+[25.018483] (-) TimerEvent: {}
+[25.127921] (-) TimerEvent: {}
+[25.237399] (-) TimerEvent: {}
+[25.347403] (-) TimerEvent: {}
+[25.406691] (package_name) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'egg_info', '--egg-base', '../build/package_name', 'build', '--build-base', '/mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/build/package_name/build', 'install', '--record', '/mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/build/package_name/install.log', '--single-version-externally-managed', 'install_data'], 'cwd': '/mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/package_name', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'USER': 'maddo', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/kilted/opt/zenoh_cpp_vendor/lib:/opt/ros/kilted/opt/gz_math_vendor/lib:/opt/ros/kilted/opt/gz_utils_vendor/lib:/opt/ros/kilted/opt/rviz_ogre_vendor/lib:/opt/ros/kilted/lib/x86_64-linux-gnu:/opt/ros/kilted/opt/gz_cmake_vendor/lib:/opt/ros/kilted/lib', 'HOME': '/home/maddo', 'OLDPWD': '/mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project', 'ROS_PYTHON_VERSION': '3', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'WSL_DISTRO_NAME': 'Ubuntu', 'WAYLAND_DISPLAY': 'wayland-0', 'COLCON_PREFIX_PATH': '/mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/install', 'ROS_DISTRO': 'kilted', 'LOGNAME': 'maddo', 'NAME': 'Dell-XPS', 'WSL_INTEROP': '/run/WSL/339_interop', 'PULSE_SERVER': 'unix:/mnt/wslg/PulseServer', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'TERM': 'xterm-256color', 'PATH': '/opt/ros/kilted/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/ffmpeg/bin:/mnt/c/Program Files (x86)/Common Files/Oracle/Java/java8path:/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath:/mnt/c/Windows/system32:/mnt/c/Windows:/mnt/c/Windows/System32/Wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0/:/mnt/c/Windows/System32/OpenSSH/:/mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/mnt/c/Program Files/NVIDIA Corporation/NVIDIA NvDLISR:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/c/Program Files/dotnet/:/mnt/c/xampp/mysql/bin:/mnt/c/Program Files (x86)/cloudflared/:/mnt/c/Program Files/Git/cmd:/mnt/c/Users/maddo/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/maddo/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Program Files/JetBrains/IntelliJ IDEA 2024.3.2/bin:/mnt/c/Users/maddo/AppData/Local/Programs/Ollama:/mnt/c/intelFPGA_lite/20.1/modelsim_ase/win32aloem:/mnt/c/Users/maddo/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/maddo/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Program Files/JetBrains/IntelliJ IDEA 2024.3.2/bin:/mnt/c/Users/maddo/AppData/Local/Programs/Ollama:/mnt/c/intelFPGA_lite/20.1/modelsim_ase/win32aloem:/mnt/c/Users/maddo/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts:/mnt/c/Users/maddo/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand:/snap/bin', 'XDG_RUNTIME_DIR': '/run/user/1000/', 'DISPLAY': ':0', 'LANG': 'en_US.UTF-8', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.crdownload=00;90:*.dpkg-dist=00;90:*.dpkg-new=00;90:*.dpkg-old=00;90:*.dpkg-tmp=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90:*.swp=00;90:*.tmp=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90:', 'AMENT_PREFIX_PATH': '/mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/install/package_name:/mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/install/my_package:/mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/install/example_package:/opt/ros/kilted', 'SHELL': '/bin/bash', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'ROS_AUTOMATIC_DISCOVERY_RANGE': 'SUBNET', 'PWD': '/mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/build/package_name', 'XDG_DATA_DIRS': '/usr/local/share:/usr/share:/var/lib/snapd/desktop', 'PYTHONPATH': '/mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/build/package_name/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/install/package_name/lib/python3.12/site-packages:/mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/install/package_name/lib/python3.12/site-packages:/mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/install/my_package/lib/python3.12/site-packages:/mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/install/example_package/lib/python3.12/site-packages:/opt/ros/kilted/lib/python3.12/site-packages', 'COLCON': '1', 'WSL2_GUI_APPS_ENABLED': '1', 'HOSTTYPE': 'x86_64', 'CMAKE_PREFIX_PATH': '/opt/ros/kilted/opt/gz_math_vendor:/opt/ros/kilted/opt/gz_utils_vendor:/opt/ros/kilted/opt/gz_cmake_vendor', 'WSLENV': ''}, 'shell': False}
+[25.465126] (-) TimerEvent: {}
+[25.574923] (-) TimerEvent: {}
+[25.598637] (example_package) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'egg_info', '--egg-base', '../build/example_package', 'build', '--build-base', '/mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/build/example_package/build', 'install', '--record', '/mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/build/example_package/install.log', '--single-version-externally-managed', 'install_data'], 'cwd': '/mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/example_package', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'USER': 'maddo', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/kilted/opt/zenoh_cpp_vendor/lib:/opt/ros/kilted/opt/gz_math_vendor/lib:/opt/ros/kilted/opt/gz_utils_vendor/lib:/opt/ros/kilted/opt/rviz_ogre_vendor/lib:/opt/ros/kilted/lib/x86_64-linux-gnu:/opt/ros/kilted/opt/gz_cmake_vendor/lib:/opt/ros/kilted/lib', 'HOME': '/home/maddo', 'OLDPWD': '/mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project', 'ROS_PYTHON_VERSION': '3', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'WSL_DISTRO_NAME': 'Ubuntu', 'WAYLAND_DISPLAY': 'wayland-0', 'COLCON_PREFIX_PATH': '/mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/install', 'ROS_DISTRO': 'kilted', 'LOGNAME': 'maddo', 'NAME': 'Dell-XPS', 'WSL_INTEROP': '/run/WSL/339_interop', 'PULSE_SERVER': 'unix:/mnt/wslg/PulseServer', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'TERM': 'xterm-256color', 'PATH': '/opt/ros/kilted/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/ffmpeg/bin:/mnt/c/Program Files (x86)/Common Files/Oracle/Java/java8path:/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath:/mnt/c/Windows/system32:/mnt/c/Windows:/mnt/c/Windows/System32/Wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0/:/mnt/c/Windows/System32/OpenSSH/:/mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/mnt/c/Program Files/NVIDIA Corporation/NVIDIA NvDLISR:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/c/Program Files/dotnet/:/mnt/c/xampp/mysql/bin:/mnt/c/Program Files (x86)/cloudflared/:/mnt/c/Program Files/Git/cmd:/mnt/c/Users/maddo/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/maddo/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Program Files/JetBrains/IntelliJ IDEA 2024.3.2/bin:/mnt/c/Users/maddo/AppData/Local/Programs/Ollama:/mnt/c/intelFPGA_lite/20.1/modelsim_ase/win32aloem:/mnt/c/Users/maddo/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/maddo/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Program Files/JetBrains/IntelliJ IDEA 2024.3.2/bin:/mnt/c/Users/maddo/AppData/Local/Programs/Ollama:/mnt/c/intelFPGA_lite/20.1/modelsim_ase/win32aloem:/mnt/c/Users/maddo/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts:/mnt/c/Users/maddo/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand:/snap/bin', 'XDG_RUNTIME_DIR': '/run/user/1000/', 'DISPLAY': ':0', 'LANG': 'en_US.UTF-8', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.crdownload=00;90:*.dpkg-dist=00;90:*.dpkg-new=00;90:*.dpkg-old=00;90:*.dpkg-tmp=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90:*.swp=00;90:*.tmp=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90:', 'AMENT_PREFIX_PATH': '/mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/install/package_name:/mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/install/my_package:/mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/install/example_package:/opt/ros/kilted', 'SHELL': '/bin/bash', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'ROS_AUTOMATIC_DISCOVERY_RANGE': 'SUBNET', 'PWD': '/mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/build/example_package', 'XDG_DATA_DIRS': '/usr/local/share:/usr/share:/var/lib/snapd/desktop', 'PYTHONPATH': '/mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/build/example_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/install/example_package/lib/python3.12/site-packages:/mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/install/package_name/lib/python3.12/site-packages:/mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/install/my_package/lib/python3.12/site-packages:/mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/install/example_package/lib/python3.12/site-packages:/opt/ros/kilted/lib/python3.12/site-packages', 'COLCON': '1', 'WSL2_GUI_APPS_ENABLED': '1', 'HOSTTYPE': 'x86_64', 'CMAKE_PREFIX_PATH': '/opt/ros/kilted/opt/gz_math_vendor:/opt/ros/kilted/opt/gz_utils_vendor:/opt/ros/kilted/opt/gz_cmake_vendor', 'WSLENV': ''}, 'shell': False}
+[25.670620] (my_package) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'egg_info', '--egg-base', '../build/my_package', 'build', '--build-base', '/mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/build/my_package/build', 'install', '--record', '/mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/build/my_package/install.log', '--single-version-externally-managed', 'install_data'], 'cwd': '/mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/my_package', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'USER': 'maddo', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/kilted/opt/zenoh_cpp_vendor/lib:/opt/ros/kilted/opt/gz_math_vendor/lib:/opt/ros/kilted/opt/gz_utils_vendor/lib:/opt/ros/kilted/opt/rviz_ogre_vendor/lib:/opt/ros/kilted/lib/x86_64-linux-gnu:/opt/ros/kilted/opt/gz_cmake_vendor/lib:/opt/ros/kilted/lib', 'HOME': '/home/maddo', 'OLDPWD': '/mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project', 'ROS_PYTHON_VERSION': '3', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'WSL_DISTRO_NAME': 'Ubuntu', 'WAYLAND_DISPLAY': 'wayland-0', 'COLCON_PREFIX_PATH': '/mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/install', 'ROS_DISTRO': 'kilted', 'LOGNAME': 'maddo', 'NAME': 'Dell-XPS', 'WSL_INTEROP': '/run/WSL/339_interop', 'PULSE_SERVER': 'unix:/mnt/wslg/PulseServer', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'TERM': 'xterm-256color', 'PATH': '/opt/ros/kilted/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/ffmpeg/bin:/mnt/c/Program Files (x86)/Common Files/Oracle/Java/java8path:/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath:/mnt/c/Windows/system32:/mnt/c/Windows:/mnt/c/Windows/System32/Wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0/:/mnt/c/Windows/System32/OpenSSH/:/mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/mnt/c/Program Files/NVIDIA Corporation/NVIDIA NvDLISR:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/c/Program Files/dotnet/:/mnt/c/xampp/mysql/bin:/mnt/c/Program Files (x86)/cloudflared/:/mnt/c/Program Files/Git/cmd:/mnt/c/Users/maddo/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/maddo/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Program Files/JetBrains/IntelliJ IDEA 2024.3.2/bin:/mnt/c/Users/maddo/AppData/Local/Programs/Ollama:/mnt/c/intelFPGA_lite/20.1/modelsim_ase/win32aloem:/mnt/c/Users/maddo/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/maddo/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Program Files/JetBrains/IntelliJ IDEA 2024.3.2/bin:/mnt/c/Users/maddo/AppData/Local/Programs/Ollama:/mnt/c/intelFPGA_lite/20.1/modelsim_ase/win32aloem:/mnt/c/Users/maddo/.vscode/extensions/ms-python.debugpy-2025.10.0-win32-x64/bundled/scripts/noConfigScripts:/mnt/c/Users/maddo/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand:/snap/bin', 'XDG_RUNTIME_DIR': '/run/user/1000/', 'DISPLAY': ':0', 'LANG': 'en_US.UTF-8', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.crdownload=00;90:*.dpkg-dist=00;90:*.dpkg-new=00;90:*.dpkg-old=00;90:*.dpkg-tmp=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90:*.swp=00;90:*.tmp=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90:', 'AMENT_PREFIX_PATH': '/mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/install/package_name:/mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/install/my_package:/mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/install/example_package:/opt/ros/kilted', 'SHELL': '/bin/bash', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'ROS_AUTOMATIC_DISCOVERY_RANGE': 'SUBNET', 'PWD': '/mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/build/my_package', 'XDG_DATA_DIRS': '/usr/local/share:/usr/share:/var/lib/snapd/desktop', 'PYTHONPATH': '/mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/build/my_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/install/my_package/lib/python3.12/site-packages:/mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/install/package_name/lib/python3.12/site-packages:/mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/install/my_package/lib/python3.12/site-packages:/mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/install/example_package/lib/python3.12/site-packages:/opt/ros/kilted/lib/python3.12/site-packages', 'COLCON': '1', 'WSL2_GUI_APPS_ENABLED': '1', 'HOSTTYPE': 'x86_64', 'CMAKE_PREFIX_PATH': '/opt/ros/kilted/opt/gz_math_vendor:/opt/ros/kilted/opt/gz_utils_vendor:/opt/ros/kilted/opt/gz_cmake_vendor', 'WSLENV': ''}, 'shell': False}
+[25.720440] (-) TimerEvent: {}
+[25.827399] (-) TimerEvent: {}
+[25.937109] (-) TimerEvent: {}
+[26.046465] (-) TimerEvent: {}
+[26.155807] (-) TimerEvent: {}
+[26.266007] (-) TimerEvent: {}
+[26.375175] (-) TimerEvent: {}
+[26.484826] (-) TimerEvent: {}
+[26.594324] (-) TimerEvent: {}
+[26.703771] (-) TimerEvent: {}
+[26.813351] (-) TimerEvent: {}
+[26.922933] (-) TimerEvent: {}
+[27.032861] (-) TimerEvent: {}
+[27.142588] (-) TimerEvent: {}
+[27.252306] (-) TimerEvent: {}
+[27.362129] (-) TimerEvent: {}
+[27.471795] (-) TimerEvent: {}
+[27.581728] (-) TimerEvent: {}
+[27.691468] (-) TimerEvent: {}
+[27.801627] (-) TimerEvent: {}
+[27.911761] (-) TimerEvent: {}
+[28.021838] (-) TimerEvent: {}
+[28.131599] (-) TimerEvent: {}
+[28.239797] (-) TimerEvent: {}
+[28.349421] (-) TimerEvent: {}
+[28.458912] (-) TimerEvent: {}
+[28.568652] (-) TimerEvent: {}
+[28.678393] (-) TimerEvent: {}
+[28.783674] (-) TimerEvent: {}
+[28.893409] (-) TimerEvent: {}
+[28.995421] (-) TimerEvent: {}
+[29.096834] (-) TimerEvent: {}
+[29.198531] (-) TimerEvent: {}
+[29.300162] (-) TimerEvent: {}
+[29.408776] (-) TimerEvent: {}
+[29.512513] (-) TimerEvent: {}
+[29.614106] (-) TimerEvent: {}
+[29.715442] (-) TimerEvent: {}
+[29.816981] (-) TimerEvent: {}
+[29.906786] (package_name) StdoutLine: {'line': b'running egg_info\n'}
+[29.917111] (-) TimerEvent: {}
+[29.932668] (example_package) StdoutLine: {'line': b'running egg_info\n'}
+[29.994653] (package_name) StdoutLine: {'line': b'writing ../build/package_name/package_name.egg-info/PKG-INFO\n'}
+[30.017377] (-) TimerEvent: {}
+[30.028479] (my_package) StdoutLine: {'line': b'running egg_info\n'}
+[30.036772] (package_name) StdoutLine: {'line': b'writing dependency_links to ../build/package_name/package_name.egg-info/dependency_links.txt\n'}
+[30.047039] (example_package) StdoutLine: {'line': b'writing ../build/example_package/example_package.egg-info/PKG-INFO\n'}
+[30.070904] (package_name) StdoutLine: {'line': b'writing requirements to ../build/package_name/package_name.egg-info/requires.txt\n'}
+[30.079834] (example_package) StdoutLine: {'line': b'writing dependency_links to ../build/example_package/example_package.egg-info/dependency_links.txt\n'}
+[30.087875] (package_name) StdoutLine: {'line': b'writing top-level names to ../build/package_name/package_name.egg-info/top_level.txt\n'}
+[30.114307] (example_package) StdoutLine: {'line': b'writing requirements to ../build/example_package/example_package.egg-info/requires.txt\n'}
+[30.117564] (-) TimerEvent: {}
+[30.128937] (example_package) StdoutLine: {'line': b'writing top-level names to ../build/example_package/example_package.egg-info/top_level.txt\n'}
+[30.169770] (my_package) StdoutLine: {'line': b'writing ../build/my_package/my_package.egg-info/PKG-INFO\n'}
+[30.200880] (my_package) StdoutLine: {'line': b'writing dependency_links to ../build/my_package/my_package.egg-info/dependency_links.txt\n'}
+[30.217735] (-) TimerEvent: {}
+[30.222745] (my_package) StdoutLine: {'line': b'writing entry points to ../build/my_package/my_package.egg-info/entry_points.txt\n'}
+[30.243117] (my_package) StdoutLine: {'line': b'writing requirements to ../build/my_package/my_package.egg-info/requires.txt\n'}
+[30.259897] (my_package) StdoutLine: {'line': b'writing top-level names to ../build/my_package/my_package.egg-info/top_level.txt\n'}
+[30.318066] (-) TimerEvent: {}
+[30.419389] (-) TimerEvent: {}
+[30.459866] (package_name) StdoutLine: {'line': b"reading manifest file '../build/package_name/package_name.egg-info/SOURCES.txt'\n"}
+[30.488256] (example_package) StdoutLine: {'line': b"reading manifest file '../build/example_package/example_package.egg-info/SOURCES.txt'\n"}
+[30.519602] (-) TimerEvent: {}
+[30.620977] (-) TimerEvent: {}
+[30.665304] (package_name) StdoutLine: {'line': b"adding license file 'LICENSE'\n"}
+[30.680962] (my_package) StdoutLine: {'line': b"reading manifest file '../build/my_package/my_package.egg-info/SOURCES.txt'\n"}
+[30.721221] (-) TimerEvent: {}
+[30.764926] (package_name) StdoutLine: {'line': b"writing manifest file '../build/package_name/package_name.egg-info/SOURCES.txt'\n"}
+[30.777379] (example_package) StdoutLine: {'line': b"writing manifest file '../build/example_package/example_package.egg-info/SOURCES.txt'\n"}
+[30.792569] (package_name) StdoutLine: {'line': b'running build\n'}
+[30.795992] (package_name) StdoutLine: {'line': b'running build_py\n'}
+[30.799545] (example_package) StdoutLine: {'line': b'running build\n'}
+[30.802754] (example_package) StdoutLine: {'line': b'running build_py\n'}
+[30.821378] (-) TimerEvent: {}
+[30.873778] (example_package) StdoutLine: {'line': b'running install\n'}
+[30.877839] (package_name) StdoutLine: {'line': b'running install\n'}
+[30.914183] (example_package) StdoutLine: {'line': b'running install_lib\n'}
+[30.925834] (-) TimerEvent: {}
+[30.926728] (my_package) StdoutLine: {'line': b"adding license file 'LICENSE'\n"}
+[30.930067] (package_name) StdoutLine: {'line': b'running install_lib\n'}
+[31.026174] (-) TimerEvent: {}
+[31.037016] (my_package) StdoutLine: {'line': b"writing manifest file '../build/my_package/my_package.egg-info/SOURCES.txt'\n"}
+[31.059170] (my_package) StdoutLine: {'line': b'running build\n'}
+[31.062437] (my_package) StdoutLine: {'line': b'running build_py\n'}
+[31.123998] (my_package) StdoutLine: {'line': b'copying my_package/my_node.py -> /mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/build/my_package/build/lib/my_package\n'}
+[31.135671] (-) TimerEvent: {}
+[31.236732] (-) TimerEvent: {}
+[31.252584] (example_package) StdoutLine: {'line': b'running install_data\n'}
+[31.271766] (my_package) StdoutLine: {'line': b'running install\n'}
+[31.275264] (package_name) StdoutLine: {'line': b'running install_data\n'}
+[31.318756] (my_package) StdoutLine: {'line': b'running install_lib\n'}
+[31.336972] (-) TimerEvent: {}
+[31.367376] (example_package) StdoutLine: {'line': b'running install_egg_info\n'}
+[31.386034] (package_name) StdoutLine: {'line': b'running install_egg_info\n'}
+[31.437253] (-) TimerEvent: {}
+[31.501877] (example_package) StdoutLine: {'line': b"removing '/mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/install/example_package/lib/python3.12/site-packages/example_package-0.0.0-py3.12.egg-info' (and everything under it)\n"}
+[31.524886] (package_name) StdoutLine: {'line': b"removing '/mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/install/package_name/lib/python3.12/site-packages/package_name-0.0.0-py3.12.egg-info' (and everything under it)\n"}
+[31.537449] (-) TimerEvent: {}
+[31.601838] (my_package) StdoutLine: {'line': b'copying /mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/build/my_package/build/lib/my_package/my_node.py -> /mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/install/my_package/lib/python3.12/site-packages/my_package\n'}
+[31.637673] (-) TimerEvent: {}
+[31.739564] (-) TimerEvent: {}
+[31.754893] (example_package) StdoutLine: {'line': b'Copying ../build/example_package/example_package.egg-info to /mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/install/example_package/lib/python3.12/site-packages/example_package-0.0.0-py3.12.egg-info\n'}
+[31.779970] (package_name) StdoutLine: {'line': b'Copying ../build/package_name/package_name.egg-info to /mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/install/package_name/lib/python3.12/site-packages/package_name-0.0.0-py3.12.egg-info\n'}
+[31.839804] (-) TimerEvent: {}
+[31.912546] (my_package) StdoutLine: {'line': b'byte-compiling /mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/install/my_package/lib/python3.12/site-packages/my_package/my_node.py to my_node.cpython-312.pyc\n'}
+[31.939990] (-) TimerEvent: {}
+[32.041054] (-) TimerEvent: {}
+[32.114636] (my_package) StdoutLine: {'line': b'running install_data\n'}
+[32.141229] (-) TimerEvent: {}
+[32.223944] (my_package) StdoutLine: {'line': b'running install_egg_info\n'}
+[32.241461] (-) TimerEvent: {}
+[32.345895] (-) TimerEvent: {}
+[32.398614] (my_package) StdoutLine: {'line': b"removing '/mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/install/my_package/lib/python3.12/site-packages/my_package-0.0.0-py3.12.egg-info' (and everything under it)\n"}
+[32.448612] (-) TimerEvent: {}
+[32.554919] (-) TimerEvent: {}
+[32.596843] (example_package) StdoutLine: {'line': b'running install_scripts\n'}
+[32.659756] (-) TimerEvent: {}
+[32.667622] (my_package) StdoutLine: {'line': b'Copying ../build/my_package/my_package.egg-info to /mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/install/my_package/lib/python3.12/site-packages/my_package-0.0.0-py3.12.egg-info\n'}
+[32.671531] (package_name) StdoutLine: {'line': b'running install_scripts\n'}
+[32.761040] (-) TimerEvent: {}
+[32.866282] (-) TimerEvent: {}
+[32.975890] (-) TimerEvent: {}
+[33.077424] (-) TimerEvent: {}
+[33.179208] (-) TimerEvent: {}
+[33.280645] (-) TimerEvent: {}
+[33.382328] (-) TimerEvent: {}
+[33.492274] (-) TimerEvent: {}
+[33.601800] (-) TimerEvent: {}
+[33.711833] (-) TimerEvent: {}
+[33.712948] (my_package) StdoutLine: {'line': b'running install_scripts\n'}
+[33.816701] (-) TimerEvent: {}
+[33.926315] (-) TimerEvent: {}
+[34.025686] (example_package) StdoutLine: {'line': b"writing list of installed files to '/mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/build/example_package/install.log'\n"}
+[34.029609] (-) TimerEvent: {}
+[34.063550] (package_name) StdoutLine: {'line': b"writing list of installed files to '/mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/build/package_name/install.log'\n"}
+[34.081881] (example_package) CommandEnded: {'returncode': 0}
+[34.133439] (-) TimerEvent: {}
+[34.243435] (-) TimerEvent: {}
+[34.353094] (-) TimerEvent: {}
+[34.462429] (-) TimerEvent: {}
+[34.572060] (-) TimerEvent: {}
+[34.682558] (-) TimerEvent: {}
+[34.792334] (-) TimerEvent: {}
+[34.901972] (-) TimerEvent: {}
+[35.011627] (-) TimerEvent: {}
+[35.121409] (-) TimerEvent: {}
+[35.153378] (example_package) JobEnded: {'identifier': 'example_package', 'rc': 0}
+[35.193977] (package_name) CommandEnded: {'returncode': 0}
+[35.222448] (-) TimerEvent: {}
+[35.332414] (-) TimerEvent: {}
+[35.372244] (my_package) StdoutLine: {'line': b'Installing my_node script to /mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/install/my_package/lib/my_package\n'}
+[35.431945] (my_package) StdoutLine: {'line': b"writing list of installed files to '/mnt/c/Users/maddo/OneDrive - University of Virginia/Coding Things College/MARS/image relay practice thing/image-relay-practice-project/src/build/my_package/install.log'\n"}
+[35.435638] (-) TimerEvent: {}
+[35.545209] (-) TimerEvent: {}
+[35.654927] (-) TimerEvent: {}
+[35.764946] (-) TimerEvent: {}
+[35.875005] (-) TimerEvent: {}
+[35.983497] (-) TimerEvent: {}
+[36.093872] (-) TimerEvent: {}
+[36.203757] (-) TimerEvent: {}
+[36.313738] (-) TimerEvent: {}
+[36.423704] (-) TimerEvent: {}
+[36.513340] (package_name) JobEnded: {'identifier': 'package_name', 'rc': 0}
+[36.556704] (-) TimerEvent: {}
+[36.557792] (my_package) CommandEnded: {'returncode': 0}
+[36.663048] (-) TimerEvent: {}
+[36.772844] (-) TimerEvent: {}
+[36.882734] (-) TimerEvent: {}
+[36.992585] (-) TimerEvent: {}
+[37.102191] (-) TimerEvent: {}
+[37.212307] (-) TimerEvent: {}
+[37.322429] (-) TimerEvent: {}
+[37.432165] (-) TimerEvent: {}
+[37.541998] (-) TimerEvent: {}
+[37.651755] (-) TimerEvent: {}
+[37.760956] (-) TimerEvent: {}
+[37.964886] (-) TimerEvent: {}
+[37.992467] (my_package) JobEnded: {'identifier': 'my_package', 'rc': 0}
+[38.032771] (-) EventReactorShutdown: {}
