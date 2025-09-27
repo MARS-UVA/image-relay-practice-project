@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "${workspaceFolder}/install/*/lib/python3.12/site-packages/**",
+        "${workspaceFolder}/build/*/lib/python3.12/site-packages/**"
+    ]
+}
