@@ -43,7 +43,6 @@ class ImagePublisher(Node):
 
         while rval:
             #grey = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
-            rval, img = get_frame_from_ros()
             grey = img
             file_thing = open("testfile.txt", "a")
             ret, corners = cv2.findChessboardCorners(grey, (3,3), None)
@@ -53,7 +52,7 @@ class ImagePublisher(Node):
             
             if ret == True:
                 print("-------------------")
-                send_to_node(corners)
+                # send_to_node(corners)
                 file_thing.write(str(corners)+"\n")
                 file_thing.close()
             img = cv2.drawChessboardCorners(grey, (3,3), corners,ret)
@@ -63,8 +62,7 @@ class ImagePublisher(Node):
             cv2.imshow("preview", img)
             #time.sleep(1)
         return corners
-    
-
+    #TODO - Implement this once
     def main(args=None):
         try:
             with rclpy.init(args=args):
