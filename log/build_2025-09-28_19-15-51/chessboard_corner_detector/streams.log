@@ -1,0 +1,24 @@
+[0.488s] Invoking command in '/home/logan/image-relay-practice-project/chessboard_corner_detector': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/logan/image-relay-practice-project/build/chessboard_corner_detector/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/logan/image-relay-practice-project/install/chessboard_corner_detector/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/chessboard_corner_detector build --build-base /home/logan/image-relay-practice-project/build/chessboard_corner_detector/build install --record /home/logan/image-relay-practice-project/build/chessboard_corner_detector/install.log --single-version-externally-managed install_data
+[0.607s] running egg_info
+[0.614s] writing ../build/chessboard_corner_detector/chessboard_corner_detector.egg-info/PKG-INFO
+[0.614s] writing dependency_links to ../build/chessboard_corner_detector/chessboard_corner_detector.egg-info/dependency_links.txt
+[0.614s] writing entry points to ../build/chessboard_corner_detector/chessboard_corner_detector.egg-info/entry_points.txt
+[0.614s] writing requirements to ../build/chessboard_corner_detector/chessboard_corner_detector.egg-info/requires.txt
+[0.614s] writing top-level names to ../build/chessboard_corner_detector/chessboard_corner_detector.egg-info/top_level.txt
+[0.634s] reading manifest file '../build/chessboard_corner_detector/chessboard_corner_detector.egg-info/SOURCES.txt'
+[0.635s] writing manifest file '../build/chessboard_corner_detector/chessboard_corner_detector.egg-info/SOURCES.txt'
+[0.635s] running build
+[0.635s] running build_py
+[0.635s] copying chessboard_corner_detector/chessboard_corner_detector.py -> /home/logan/image-relay-practice-project/build/chessboard_corner_detector/build/lib/chessboard_corner_detector
+[0.635s] running install
+[0.638s] running install_lib
+[0.647s] copying /home/logan/image-relay-practice-project/build/chessboard_corner_detector/build/lib/chessboard_corner_detector/chessboard_corner_detector.py -> /home/logan/image-relay-practice-project/install/chessboard_corner_detector/lib/python3.12/site-packages/chessboard_corner_detector
+[0.647s] byte-compiling /home/logan/image-relay-practice-project/install/chessboard_corner_detector/lib/python3.12/site-packages/chessboard_corner_detector/chessboard_corner_detector.py to chessboard_corner_detector.cpython-312.pyc
+[0.648s] running install_data
+[0.648s] running install_egg_info
+[0.657s] removing '/home/logan/image-relay-practice-project/install/chessboard_corner_detector/lib/python3.12/site-packages/chessboard_corner_detector-0.0.0-py3.12.egg-info' (and everything under it)
+[0.657s] Copying ../build/chessboard_corner_detector/chessboard_corner_detector.egg-info to /home/logan/image-relay-practice-project/install/chessboard_corner_detector/lib/python3.12/site-packages/chessboard_corner_detector-0.0.0-py3.12.egg-info
+[0.657s] running install_scripts
+[0.723s] Installing detector script to /home/logan/image-relay-practice-project/install/chessboard_corner_detector/lib/chessboard_corner_detector
+[0.724s] writing list of installed files to '/home/logan/image-relay-practice-project/build/chessboard_corner_detector/install.log'
+[0.746s] Invoked command in '/home/logan/image-relay-practice-project/chessboard_corner_detector' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/logan/image-relay-practice-project/build/chessboard_corner_detector/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/logan/image-relay-practice-project/install/chessboard_corner_detector/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/chessboard_corner_detector build --build-base /home/logan/image-relay-practice-project/build/chessboard_corner_detector/build install --record /home/logan/image-relay-practice-project/build/chessboard_corner_detector/install.log --single-version-externally-managed install_data

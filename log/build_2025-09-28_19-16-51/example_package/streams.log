@@ -1,0 +1,19 @@
+[0.484s] Invoking command in '/home/logan/image-relay-practice-project/src/example_package': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/logan/image-relay-practice-project/build/example_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/logan/image-relay-practice-project/install/example_package/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/example_package build --build-base /home/logan/image-relay-practice-project/build/example_package/build install --record /home/logan/image-relay-practice-project/build/example_package/install.log --single-version-externally-managed install_data
+[0.603s] running egg_info
+[0.610s] writing ../../build/example_package/example_package.egg-info/PKG-INFO
+[0.611s] writing dependency_links to ../../build/example_package/example_package.egg-info/dependency_links.txt
+[0.611s] writing requirements to ../../build/example_package/example_package.egg-info/requires.txt
+[0.611s] writing top-level names to ../../build/example_package/example_package.egg-info/top_level.txt
+[0.630s] reading manifest file '../../build/example_package/example_package.egg-info/SOURCES.txt'
+[0.631s] writing manifest file '../../build/example_package/example_package.egg-info/SOURCES.txt'
+[0.631s] running build
+[0.631s] running build_py
+[0.631s] running install
+[0.634s] running install_lib
+[0.644s] running install_data
+[0.644s] running install_egg_info
+[0.654s] removing '/home/logan/image-relay-practice-project/install/example_package/lib/python3.12/site-packages/example_package-0.0.0-py3.12.egg-info' (and everything under it)
+[0.654s] Copying ../../build/example_package/example_package.egg-info to /home/logan/image-relay-practice-project/install/example_package/lib/python3.12/site-packages/example_package-0.0.0-py3.12.egg-info
+[0.654s] running install_scripts
+[0.719s] writing list of installed files to '/home/logan/image-relay-practice-project/build/example_package/install.log'
+[0.749s] Invoked command in '/home/logan/image-relay-practice-project/src/example_package' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/logan/image-relay-practice-project/build/example_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/logan/image-relay-practice-project/install/example_package/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/example_package build --build-base /home/logan/image-relay-practice-project/build/example_package/build install --record /home/logan/image-relay-practice-project/build/example_package/install.log --single-version-externally-managed install_data
