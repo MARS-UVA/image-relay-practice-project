@@ -26,7 +26,6 @@ def main():
         grey = img
         file_thing = open("testfile.txt", "a")
         ret, corners = cv2.findChessboardCorners(grey, (3,3), None)
-
         top_left, top_right, bottom_right, bottom_left  = 0,0,0,0
 
         
